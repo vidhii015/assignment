@@ -583,7 +583,9 @@ In HTML, there aren't explicit "logical" and "physical" tags, but there are stru
         <tr>
           <td colspan="3">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.680062594595!2d70.77238027506904!3d22.290106079693956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca248c77c099%3A0xdf5ac10af64ac8ee!2sTOPS%20Technologies!5e0!3m2!1sen!2sin!4v1715189810765!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.680062594595!2d70.77238027506904!3d22.290106079693956!
+              2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca248c77c099%3A0xdf5ac10af64ac8ee!2sTOPS%20
+              Technologies!5e0!3m2!1sen!2sin!4v1715189810765!5m2!1sen!2sin"
               width="275"
               height="340"
               style="border: 0"
