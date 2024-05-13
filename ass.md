@@ -449,11 +449,6 @@ To insert a picture into the background of a web page, you can use background in
 <html>
   <head>
     <title>Document</title>
-    <style>
-      body {
-        background-repeat: no-repeat;
-      }
-    </style>
   </head>
   <body
     background="https://resize.indiatvnews.com/en/resize/newbucket/400_-/2021/03/github-1585316201-1616751698.jpg"
