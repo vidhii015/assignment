@@ -207,9 +207,13 @@ HTML provides various formatting tags to structure and style content. Here are s
 **3. `<br>` :** Line break tag for inserting line breaks within text.
 
 **4. `<hr>` :** Horizontal rule tag for inserting a horizontal line.
+
 **5. `<strong>` :** Strong emphasis tag for making text bold.
+
 **6. `<u>` :** Underline tag for underlining text.
+
 **7. `<b>` :** Bold tag for making text bold (though `<strong>` is preferred for semantic reasons).
+
 **8. `<i>` :** Italic tag for italicizing text (though `<em>` is preferred for semantic reasons).
 
 These are just some of the basic formatting tags in HTML. There are many more tags and attributes available for various purposes, including semantic markup, multimedia embedding, form elements, etc.
